@@ -1,0 +1,15 @@
+#formdiv{
+    margin-top: 50px;
+    margin-left: 400px;
+    height: 250px;
+    width: 350px;
+    align-items: center;
+    
+}
+form{
+    margin-left: 50px;
+    align-items: center;
+}
+input{
+    display: inline-block;
+}
